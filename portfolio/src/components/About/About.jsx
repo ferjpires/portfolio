@@ -23,10 +23,10 @@ const About = () => {
                         />
                         <div className={styles.aboutItemText}>
                             <h3>
-                                Frontend Developer
+                                Front-end Enjoyer
                             </h3>
                             <p>
-                                I'm a frontend developer with experience in building responsive and optimized sites
+                                I'm currently learning front-end tools and lookit to master them like React and NextJS
                             </p>
                         </div>
                     </li>
@@ -37,10 +37,10 @@ const About = () => {
                         />
                         <div className={styles.aboutItemText}>
                             <h3>
-                                Backend Developer
+                                Problem Solver
                             </h3>
                             <p>
-                                I have experience developing fast and optimised backend systems and APIs
+                                I'm very passionate on problem solving with a knack for fixing not so good situations and finding solutions.
                             </p>
                         </div>
                     </li>
@@ -51,10 +51,10 @@ const About = () => {
                         />
                         <div className={styles.aboutItemText}>
                             <h3>
-                                UI Designer
+                                Leadership and Communication
                             </h3>
                             <p>
-                                I have designed multiple landing pages and have created design systems as well
+                                Proven leader with exceptional communication skills, adept at fostering collaboration and guiding teams towards success.
                             </p>
                         </div>
                     </li>   
