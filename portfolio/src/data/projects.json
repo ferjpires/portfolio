@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Data Manager",
+      "imageSrc": "projects/datamanager.png",
+      "description": "A Data Manager project, parsing data from a CSV file and store it using data structures like HashTables and Lists to perform queries.",
+      "skills": ["C", "Data Structures", "Memory Management", "Solving Algorithms"],
+      "source": "https://github.com/ferjpires/LI3"
+    },
+    {
+      "title": "Roguelite Game",
+      "imageSrc": "projects/roguelite.png",
+      "description": "A Roguelite-ish Game using C language made to encode algorithms and data structures in an imperative programming language.",
+      "skills": ["C", "Data Structures", "Algorithms", "TeamWork"],
+      "source": "https://github.com/ferjpires/LI2"
+    },
+    {
+      "title": "Crossy Road",
+      "imageSrc": "projects/crossyroad.png",
+      "description": "A Crossy Road-ish Game using Haskell, a functional programming language that taught us the main principles of coding a game.",
+      "skills": ["Haskell", "Gloss", "Algorithms", "TeamWork"],
+      "source": "https://github.com/ferjpires/LI1"
+    }
+  ]

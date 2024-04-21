@@ -1,0 +1,35 @@
+[
+    {
+      "role": "Student",
+      "organisation": "University of Minho",
+      "startDate": "Sept, 2022",
+      "endDate": "Present",
+      "experiences": [
+        "Learning principles of Informatics Engineer",
+        "Building group projects in course subjects using several programming languages"
+      ],
+      "imageSrc": "history/um.png"
+    },
+    {
+      "role": "Store Manager",
+      "organisation": "Burger King",
+      "startDate": "Jun, 2020",
+      "endDate": "Feb, 2022",
+      "experiences": [
+        "Taking control of inventory, food costs, training and making the staff schedule", 
+        "Worked on an excel program that controlled all daily food cost in every store in the country"
+      ],
+      "imageSrc": "history/bk.png"
+    },
+    {
+      "role": "Shift Manager",
+      "organisation": "McDonald's",
+      "startDate": "Oct, 2017",
+      "endDate": "Nov, 2019",
+      "experiences": [
+        "Managing a restaurant shift",
+        "Head of the training department"
+      ],
+      "imageSrc": "history/mc.png"
+    }
+  ]
