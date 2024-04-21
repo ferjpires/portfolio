@@ -26,7 +26,7 @@ const About = () => {
                                 Front-end Enjoyer
                             </h3>
                             <p>
-                                I'm currently learning front-end tools and lookit to master them like React and NextJS
+                                I'm currently learning front-end tools like React and NextJS and looking forward to master them.
                             </p>
                         </div>
                     </li>
